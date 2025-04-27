@@ -1,0 +1,11 @@
+!
+! Title: Nexus Shield List
+! Description: List for blocking ads and preventing user tracking
+! Version: 1.0.0
+! Homepage: 
+! Last modified: 2025-04-22T14:00:00.000Z
+!
+!
+!0.0.0.0 ads-inmobi-comtm.trafficmanager.net
+0.0.0.0 test
+0.0.0.0 test2
