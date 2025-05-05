@@ -6,10 +6,6 @@
 ! Last modified: 2025-04-27T14:00:00.000Z
 !
 !
-!0.0.0.0 ads-inmobi-comtm.trafficmanager.net
-0.0.0.0 cdn77.org
-0.0.0.0 s.youtube.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 excess.duolingo.com
-0.0.0.0 youtubei.googleapis.com
