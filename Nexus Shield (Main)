@@ -20,3 +20,4 @@
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.com
 0.0.0.0 analytics.duolingo.com
+0.0.0.0 android-api-cf.duolingo.com
