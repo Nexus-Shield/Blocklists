@@ -20,3 +20,7 @@
 0.0.0.0 api.segment.io
 0.0.0.0 cdn.segment.com
 0.0.0.0 analytics.duolingo.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 d1jvc9b8z3vcjs.cloudfront.net
+0.0.0.0 d1ykf07e75w7ss.cloudfront.net
+0.0.0.0 tournaments.easybrain.com
