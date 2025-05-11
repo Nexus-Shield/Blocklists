@@ -3,7 +3,7 @@
 ! Description: List for blocking ads and preventing user tracking
 ! Version: 1.0.0
 ! Homepage: 
-! Last modified: 2025-04-27T14:00:00.000Z
+! Last modified: 2025-05-11T15:00:00.000Z
 !
 !
 0.0.0.0 www.googleadservices.com
@@ -25,3 +25,24 @@
 0.0.0.0 d1ykf07e75w7ss.cloudfront.net
 0.0.0.0 tournaments.easybrain.com
 0.0.0.0 static.ads.brave.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ads.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 video.unityads.unity3d.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 ad.inmobi.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 v4vc.mediate.adcolony.com
+0.0.0.0 ads.tapjoy.com
