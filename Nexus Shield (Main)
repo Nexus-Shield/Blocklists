@@ -46,3 +46,8 @@
 0.0.0.0	ads.tapjoy.com
 0.0.0.0	a1838.dscw154.akamai.net
 0.0.0.0	e673.dsce9.akamaiedge.net
+0.0.0.0 test.local
+0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
+0.0.0.0 gcs-blue-download-eu.l.googleusercontent.com
+0.0.0.0 consent-manager-events-api.prod.cloud.ogury.io
+0.0.0.0 awards.easybrain.com
